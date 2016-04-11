@@ -61,3 +61,13 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# NetBeans project folder
+nbproject/
+dist/
+build/
+build.xml
+nblibraries.properties
+
+# Manifest files
+*.mf
